@@ -1,0 +1,47 @@
+#search{
+    position: relative;
+    text-align: center;
+    padding: 50px;
+    size: 50%;
+    margin: auto;
+    
+}
+
+#search-box{
+    height: 50px;
+    width: 500px;
+    background: #e7e7e7;
+    font-family: "Nunito", sans-serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+      
+  }
+.search-button{
+    height: 50px;
+    width: 100px;
+    background: tomato;
+    
+    font-family: "Nunito", sans-serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+#meal-name{
+    text-align: center;
+}
+.card-custom{
+    position: left;
+    border-radius: 5px;
+    padding: 5%;
+    width: 400px;
+}
+.card-custom img{
+    position: left;
+    height: 300px;
+    
+}
+#background{
+    background: wheat;
+}
